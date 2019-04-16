@@ -1,15 +1,12 @@
-Camel Java Router Project
+Dawei Website Searcher Project
 =========================
 
 To build this project use
 
     mvn install
 
-To run this project from within Maven use
+To run this project 
 
-    mvn exec:java
-
-For more help see the Apache Camel documentation
-
-    http://camel.apache.org/
+    ./run.sh
+ 
 
