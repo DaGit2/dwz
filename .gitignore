@@ -1,0 +1,4 @@
+# exclude everything except directory target
+/target
+*.iml
+/.idea
